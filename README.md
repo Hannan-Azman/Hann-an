@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hann-an
+- 👋 Hi, I’m @Hannan-Azman
 - 👀 I’m interested in learning how to use Python.
 - 🌱 I’m currently enrolled in the Udemy course "2022 Complete Python Bootcamp From Zero to Hero in Python
 "
