@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Hann-an
-- 👀 I’m interested in learning how to use GitHub.
-- 🌱 I’m currently learning how to use GitHub (lol).
-- 💞️ I’m looking to collaborate on very basic projects, something like making a calculator or a hangman game.
+- 👀 I’m interested in learning how to use Python.
+- 🌱 I’m currently enrolled in the Udemy course "2022 Complete Python Bootcamp From Zero to Hero in Python
+"
+- 💞️ I’m looking to create basic projects, to demonstrate the knowledge and skills I've picked up.
 - 📫 How to reach me ... you can message me on telegram @noobcoder9
 
 <!---
