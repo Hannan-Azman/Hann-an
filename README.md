@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Hannan-Azman
-- 👀 I’m interested in learning how to use Python.
-- 🌱 I’m currently enrolled in the Udemy course "2022 Complete Python Bootcamp From Zero to Hero in Python
-"
-- 💞️ I’m looking to create basic projects, to demonstrate the knowledge and skills I've picked up.
-- 📫 How to reach me ... you can message me on telegram @noobcoder9
+- 👀 I’m interested in the cloud and computer science.
+- 🌱 I’m currently enrolled in UoW Computer Science (Digital Systems Security)
+- 💞️ I’m looking to create basic projects, to demonstrate the knowledge I've picked up along the way.
+- 📫 How to reach me ... 
 
 <!---
 Hann-an/Hann-an is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
